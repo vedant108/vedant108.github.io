@@ -575,7 +575,7 @@ transition: all 0.5s ease-in-out;
 	position: relative;
 }
 .footer-content .social li.email a{background: url(../images/icon_email.png) no-repeat 50% 50% ;}
-.footer-content .social li.facebook a{background: url(../images/icon_fb.png) no-repeat 50% 50%;}
+.footer-content .social li.facebook a{background: url(../images/git.png) no-repeat 50% 50%;}
 .footer-content .social li.google a{background: url(../images/icon_gl.png) no-repeat 50% 50% ;}
 .footer-content .social li.twitter a{background: url(../images/icon_tw.png) no-repeat 50% 50% ;}
 .footer-content .social li.pinterest a{background: url(../images/icon_pn.png) no-repeat 50% 50%;}
@@ -662,7 +662,7 @@ transition: all 0.5s ease-in-out;
 		background-size:51px 38px;
 	}
 	.footer-content .social li.facebook a{
-		background-image: url(../images/icon_fb@x2.png);
+		background-image: url(../images/github.png);
 		background-size:20px 38px;
 	}
 	.footer-content .social li.google a{
